@@ -1,0 +1,51 @@
+body {
+  background-color: #d8d9cf;
+  font-family: Roboto;
+}
+
+h2,
+h3 {
+  text-align: center;
+}
+
+img {
+  border-radius: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.list {
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+}
+
+.progamming {
+  background: url("coding.png") no-repeat left top;
+  padding-left: 30px;
+}
+
+.reading {
+  background: url("reading.png") no-repeat left top;
+  padding-left: 30px;
+}
+
+.table-tennis {
+  background: url("table-tennis.png") no-repeat left top;
+  padding-left: 30px;
+}
+
+.chess {
+  background: url("chess.png") no-repeat left top;
+  padding-left: 30px;
+}
+
+.list {
+  margin-left: 44%;
+}
+
+.email {
+  width: 20px;
+  height: 20px;
+}
